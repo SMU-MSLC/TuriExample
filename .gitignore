@@ -1,0 +1,5 @@
+*.sframe
+*.model
+*.mlmodel
+*.ipynb_checkpoints
+
